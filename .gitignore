@@ -1,0 +1,9 @@
+
+webscraping/
+__pycache__/
+
+
+downloads/
+anexos.zip
+
+.ipynb_checkpoints/
